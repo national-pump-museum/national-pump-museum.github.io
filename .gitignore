@@ -1,0 +1,12 @@
+# 隠しファイルは除外
+Thumbs.db
+
+# メモなどは除外
+**/*.css.map
+**/*.py
+**/*.scss
+**/*.txt
+
+# 元画像などは除外
+**/original/
+**/resized/

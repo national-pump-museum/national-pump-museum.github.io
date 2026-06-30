@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- トップページ -->
+  <url>
+    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/contact/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <changefreq>weekly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/gallery</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/history/</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <changefreq>weekly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/news/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-01</lastmod>
+    <loc>https://national-pump-museum.github.io/product/</loc>
+    <priority>0.9</priority>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+.breadcrumbs__list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  overflow-x: auto;
+  padding: 0 1rem;
+}
+.breadcrumbs__item:not(:first-child)::before {
+  content: ">";
+  display: inline-block;
+  margin-right: 1rem;
+}
+.breadcrumbs__item--link {
+  color: inherit;
+  display: inline-block;
+  padding: 0.5rem 0;
+  text-decoration: none;
+}
+.breadcrumbs__item--current {
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.5rem 0;
+}/*# sourceMappingURL=breadcrumbs.css.map */
