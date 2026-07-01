@@ -3,6 +3,7 @@ Thumbs.db
 
 # メモなどは除外
 **/*.css.map
+**/*.md
 **/*.py
 **/*.scss
 **/*.txt
