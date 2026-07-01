@@ -91,6 +91,12 @@ body {
   white-space: nowrap;
 }
 
+.content-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
 .in-prep {
   background: yellow;
   color: red;
@@ -101,21 +107,32 @@ body {
   text-align: center;
 }
 
+.simple-image-style {
+  display: block;
+  height: auto;
+  margin: 1rem 0;
+  width: 100%;
+}
+
 .simple-list-style {
-  margin: 1em 0;
+  margin: 1rem 0;
   padding: 0;
   padding-left: 2em;
 }
 
 .simple-table-style {
   border-collapse: collapse;
-  margin: 1em 0;
+  margin: 1rem 0;
   max-width: 100%;
   table-layout: fixed;
   width: 100%;
 }
 .simple-table-style td, .simple-table-style th {
   border: solid 1px black;
-  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
   white-space: nowrap;
+}
+
+.text-center {
+  text-align: center;
 }/*# sourceMappingURL=global.css.map */

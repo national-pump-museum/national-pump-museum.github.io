@@ -16,12 +16,6 @@
 .product-detail__figure {
   margin: 1rem 0;
 }
-.product-detail__photo {
-  display: block;
-  height: auto;
-  margin: 1rem 0;
-  width: 100%;
-}
 .product-detail__caption {
   margin: 1rem 0;
 }
