@@ -16,6 +16,11 @@
 .product-detail__figure {
   margin: 1rem 0;
 }
+.product-detail__photo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .product-detail__caption {
   margin: 1rem 0;
 }
