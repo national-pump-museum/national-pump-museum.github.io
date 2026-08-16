@@ -35,6 +35,9 @@
   gap: 1rem;
   padding: 1rem;
 }
+.gallery-item:has([data-usage-permission=pending]) {
+  display: none;
+}
 .gallery-item__title {
   align-items: center;
   display: flex;
